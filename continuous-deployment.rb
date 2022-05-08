@@ -1,9 +1,9 @@
 class ContinuousDeployment < Formula
   desc "desc... :-)"
   homepage "https://github.com/TGotwig/continuous-deployment"
-  url "https://github.com/tgotwig/continuous-deployment/releases/download/0.0.2/continuous-deployment-mac.tar.gz"
-  version "0.0.2"
-  sha256 "de3de44b8b26bfa3b7680b63c495334aacd0607cc0ae351d0e58bf2ef7a7f715"
+  url "https://github.com/tgotwig/continuous-deployment/releases/download/0.0.3/continuous-deployment-mac.tar.gz"
+  version "0.0.3"
+  sha256 "6123e6c80f2bd9885a8bbbc1930cc8f721d684c1d088fe23a2bf35851d35aab6"
 
   def install
     bin.install "continuous-deployment"
