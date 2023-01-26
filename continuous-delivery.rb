@@ -1,9 +1,9 @@
 class ContinuousDelivery < Formula
   desc "desc... :-)"
   homepage "https://github.com/TGotwig/continuous-delivery"
-  url "https://github.com/tgotwig/continuous-delivery/releases/download/0.0.7/continuous-delivery-mac.tar.gz"
-  version "0.0.7"
-  sha256 "fb9e3c0ba5a91c7f2438022feea9fd4c8e9ba4195eab688262be95b224f35801"
+  url "https://github.com/tgotwig/continuous-delivery/releases/download/0.0.8/continuous-delivery-mac.tar.gz"
+  version "0.0.8"
+  sha256 "7661fa76d8c129db86295cbc1c8b0dc2777de94f8f5ff9b0f3e6e4fad0843b92"
 
   def install
     bin.install "continuous-delivery"
